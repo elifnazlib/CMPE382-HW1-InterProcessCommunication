@@ -1,0 +1,9 @@
+Input file: numbers.txt
+
+1 digits - 0
+2 digits - 3
+3 digits - 22
+4 digits - 288
+5 digits - 687
+Primes - 107
+Nonprimes - 893
