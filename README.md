@@ -4,10 +4,7 @@
 
 In this homework, you are expected to write a C program, which demonstrates interprocess communication-IPC between three processes using pipes. Your program as the parent process should create two child processes and utilize four pipes, establishing a multi-directional communication as shown in the figure below:<br>
 
-<img width="300" height="188" alt="image" src="https://github.com/user-attachments/assets/c5fe5a78-31ff-4e54-9506-83135ff3f458">
-
-<br>
-<br>
+<img width="200" alt="image" src="https://github.com/elifnazlib/CMPE382-HW1-InterProcessCommunication/blob/main/ipc_figure.png">
 
 Note that unnecessary pipe ends must be closed to prevent improper pipe usage. Each pipe needs one write one read end to remain open for two way communication.
 
